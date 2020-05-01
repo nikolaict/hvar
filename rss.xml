@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+	<channel>
+	<item>
+		<title>Hvar</title>
+		<description>Priča o Hvaru</description>
+		<link>http://sajtovistudenata.ict.edu.rs/2005_17/index.html</link>
+		<guid>1</guid>
+	</item>
+	<item>
+		<title>Galerija</title>
+		<description>Slike sa Hvara</description>
+		<link>http://sajtovistudenata.ict.edu.rs/2005_17/galerija.html</link>
+		<guid>2</guid>
+	</item>
+	<item>
+		<title>O Hvaru</title>
+		<description>Geografski položaj i svojstva</description>
+		<link>http://sajtovistudenata.ict.edu.rs/2005_17/hvar.html</link>
+		<guid>3</guid>
+		</item>
+	<item>
+		<title>O autoru</title>
+		<description>Par reči o autoru sajta</description>
+		<link>http://sajtovistudenata.ict.edu.rs/2005_17/autor.html</link>
+		<guid>4</guid>
+	</item>
+	<item>
+		<title>Kontakt</title>
+		<description>Kontakt za vise informacija</description>
+		<link>http://sajtovistudenata.ict.edu.rs/2005_17/kontakt.html</link>
+		<guid>5</guid>
+	</item>
+	<item>
+		<title>Jelsa</title>
+		<description>Geografski položaj i istorija Jelse</description>
+		<link>http://sajtovistudenata.ict.edu.rs/2005_17/jelsa.html</link>
+		<guid>6</guid>
+	</item>
+	<item>
+		<title>Gdinj</title>
+		<description>Geografski položaj i istorija Gdinja</description>
+		<link>http://sajtovistudenata.ict.edu.rs/2005_17/gdinj.html</link>
+		<guid>7</guid>
+	</item>
+	<item>
+		<title>Stari Grad</title>
+		<description>Geografski položaj i istorija Starog Grada</description>
+		<link>http://sajtovistudenata.ict.edu.rs/2005_17/stari_grad.html</link>
+		<guid>8</guid>
+	</item>
+	<item>
+		<title>Sućuraj</title>
+		<description>Geografski položaj i istorija Sućuraja</description>
+		<link>http://sajtovistudenata.ict.edu.rs/2005_17/sucuraj.html</link>
+		<guid>9</guid>
+	</item>
+	</channel>
+</rss>
